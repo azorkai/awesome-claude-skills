@@ -179,6 +179,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Creative & Media
 
+- [ai-video-skills](https://github.com/klakix-ai/ai-video-skills) - Ten skills for AI video production: camera angles, character consistency, Seedance/Kling/Veo prompting, realism, lip sync, pacing, viral formats, phone screen compositing and 3D previs, with tested Python scripts.
 - [anydesign](https://github.com/uxKero/anydesign) - Analyzes any image, URL, or Figma file and generates a structured `design.md` with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. *By [@uxKero](https://github.com/uxKero)*
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
